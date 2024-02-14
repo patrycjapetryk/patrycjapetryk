@@ -8,7 +8,11 @@ Collaborating with agencies and brands that prioritize design and development in
 
 My commitment to accessibility and user experience shines through in every project, where I write efficient and scalable code to elevate digital experiences to new heights.
 
+## Current stack is:
+
 Currently, my stack includes Next.js / React, Typescript, Tailwind CSS, and proficiency in Figma / Adobe XD, enabling me to create cutting-edge solutions tailored to the modern web landscape.
+
+## Let's stay in touch
 
 Excited about the prospect of collaborating? Let's connect and discuss further 💬!
 
