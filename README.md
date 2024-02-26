@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a Frontend Developer rooted in Warsaw, Poland, blending a passion for art and design with my technical expertise 👩‍💻.
 
